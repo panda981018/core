@@ -1,6 +1,14 @@
 ## core
 김영한님의 '스프링 핵심 원리 - 기본편' 강의 예제입니다.
 
+### Project Structure
+- Project : Gradle-Groovy
+- Language : Java
+- Packaging : Jar
+- Java : 11
+- Spring : 2.7.14 ( Snapshot 버전이 아닌 정식 버전 사용! )
+- Gradle : 8.2.1
+
 ### 비즈니스 요구사항과 설계
 
 #### 회원
